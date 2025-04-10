@@ -1,1 +1,1 @@
-# canny edge detection logic here
+def generate_canny_edge(img_path, output_path): pass

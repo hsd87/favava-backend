@@ -1,1 +1,1 @@
-# gpt prompt enhancer logic here
+def enhance_prompt_with_openai(inputs): return {'positive_prompt': 'enhanced', 'negative_prompt': 'no logos'}
